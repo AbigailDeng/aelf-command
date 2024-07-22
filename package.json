@@ -1,6 +1,6 @@
 {
   "name": "abigail-command-test",
-  "version": "0.1.47-beta.6",
+  "version": "0.1.47-beta.7",
   "description": "A CLI tools for abigail",
   "main": "src/index.js",
   "type": "module",

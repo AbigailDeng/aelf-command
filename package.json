@@ -1,7 +1,7 @@
 {
-  "name": "aelf-command",
+  "name": "abigail-command-test",
   "version": "0.1.47-beta.5",
-  "description": "A CLI tools for AElf",
+  "description": "A CLI tools for abigail",
   "main": "src/index.js",
   "type": "module",
   "types": "types/index.d.ts",
